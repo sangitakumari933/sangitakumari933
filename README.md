@@ -56,12 +56,6 @@ I'm a Computer Science student passionate about building web applications and so
 - Developed an admin panel for managing food items and orders.
 - Integrated image uploads using Multer and Cloudinary.
 
-**3. Learning Management System (LMS)**
-
-- Developed a responsive LMS frontend using React and Tailwind CSS.
-- Implemented course browsing, routing, and reusable components.
-- Integrated Clerk for authentication and Quill for rich-text editing.
-
 ---
 
 ### 💻 Coding Profiles
